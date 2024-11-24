@@ -1,7 +1,15 @@
 # eeTools
-**Is an organization dedicated to create and maintain software for electronics education.**
+**Is an organization dedicated to create and maintain tools for electronics education.** <br>
+Mostly software but could be other things like tutorials, manuals or even hardware.<br>
 
-The main application we are developing is [SimulIDE Circuit Simulator](https://github.com/eeTools/SimulIDE-dev)
+The main application we are developing is [SimulIDE Circuit Simulator](https://github.com/eeTools/SimulIDE-dev) <br>
+You can find more information at the [website](https://simulide.com) <br>
+Or ask any question in the [forum](https://simulide.com/p/forum/) <br>
+
+We are open to any kind of contribution, if you are interested feel free to open an issue in any of our repositories.<br>
+Yo can contribute not only with code but also translations, documentation, graphic design, etc.
+
+
 
 <!--
 
